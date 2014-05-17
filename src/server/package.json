@@ -1,0 +1,11 @@
+{
+  "name": "gojira-server",
+  "dependencies": {
+    "mongodb": "^1.4.3",
+    "redis": "^0.10.1",
+    "hiredis": "^0.1.16",
+    "lodash": "^2.4.1",
+    "connect": "^2.15.0",
+    "shortid": "^2.0.0"
+  }
+}

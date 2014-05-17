@@ -1,0 +1,7 @@
+{
+  "name": "gojira",
+  "devDependencies": {
+    "nodemon": "^1.0.19",
+    "react-tools": "^0.10.0"
+  }
+}
